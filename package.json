@@ -1,8 +1,8 @@
 {
-    "name": "GravityFalls",
+    "name": "wingedtek_retuns",
     "version": "1.0.0",
     "keywords": ["util", "functional", "server", "client", "browser"],
-    "author": "lab09",
+    "author": "playg",
     "contributors": [],
     "dependencies": {}
 }
